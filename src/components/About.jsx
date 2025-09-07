@@ -115,7 +115,7 @@ const About = () => {
               whileTap={{ scale: 0.95 }}
               onClick={() =>
                 window.open(
-                  "https://www.linkedin.com/in/arkaghosh/", // UPDATED
+                  "https://www.linkedin.com/in/arka-ghosh-aaab5a270/", // UPDATED
                   "_blank"
                 )
               }
