@@ -35,7 +35,7 @@ import vsc from "./tech/VSC.png";
 import matplotlib from "./tech/Matplotlib.svg";
 import postgresql from "./tech/postgresql.png";
 import vercel from "./tech/Vercel.svg";
-import canva from "./tech/canva.svg";
+import canva from "./tech/Canva.svg";
 import figma from "./tech/figma.png";
 
 // --- Imports using "dummy.png" placeholder for missing files ---
