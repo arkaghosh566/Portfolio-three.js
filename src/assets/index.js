@@ -31,7 +31,7 @@ import jupyter from "./tech/Jupyter.svg";
 import kaggle from "./tech/Kaggle.svg";
 import keras from "./tech/Keras.svg";
 import streamlit from "./tech/Streamlit.svg";
-import vsc from "./tech/vsc.png";
+import vsc from "./tech/VSC.png";
 import matplotlib from "./tech/Matplotlib.svg";
 import postgresql from "./tech/postgresql.png";
 import vercel from "./tech/Vercel.svg";
