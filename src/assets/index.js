@@ -39,18 +39,18 @@ import canva from "./tech/Canva.svg";
 import figma from "./tech/figma.png";
 
 // --- Imports using "dummy.png" placeholder for missing files ---
-import cpp from "./tech/dummy.png"; // Using placeholder for c++.svg
-import opencv from "./tech/dummy.png"; // Using placeholder for opencv.svg
-import docker from "./tech/dummy.png"; // Using placeholder for docker.png
-import capsitech from "./tech/dummy.png"; // Using placeholder for capsitech.png
-import fit from "./tech/dummy.png"; // Using placeholder for fit.png
-import nhs from "./tech/dummy.png"; // Using placeholder for nhs.png
-import coursera from "./tech/dummy.png"; // Using placeholder for coursera.png
-import person_counting from "./dummy.png"; // Using placeholder for person_counting.png
-import hair_follicle from "./dummy.png"; // Using placeholder for hair_follicle.png
-import gait_analysis from "./dummy.png"; // Using placeholder for gait_analysis.png
-import head_detection from "./dummy.png"; // Using placeholder for head_detection.png
-import object_tracking from "./dummy.png"; // Using placeholder for object_tracking.png
+import cpp from "./tech/cpp.png"; // Using placeholder for c++.svg
+import opencv from "./tech/OpenCV.svg"; // Using placeholder for opencv.svg
+import docker from "./tech/docker.svg"; // Using placeholder for docker.png
+import capsitech from "./Office_logo.png"; // Using placeholder for capsitech.png
+import fit from "./Clg_logo.png"; // Using placeholder for fit.png
+import nhs from "./Schl_logo.png"; // Using placeholder for nhs.png
+import coursera from "./Coursera.png"; // Using placeholder for coursera.png
+import person_counting from "./CrowdLens.png"; // Using placeholder for person_counting.png
+import hair_follicle from "./FollicleNet.png"; // Using placeholder for hair_follicle.png
+import gait_analysis from "./ShadowTrack.png"; // Using placeholder for gait_analysis.png
+import head_detection from "./HeadMark.png"; // Using placeholder for head_detection.png
+import object_tracking from "./SafeVision.png"; // Using placeholder for object_tracking.png
 
 export {
   // General
