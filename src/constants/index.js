@@ -205,7 +205,7 @@ const extracurricular = [
 
 const projects = [
   {
-    name: "Real-Time Person Counting System",
+    name: "CrowdLens",
     description:
       "A deep learning-based system designed to accurately count people in crowded environments. It uses a ResNet50 backbone with a Feature Pyramid Network (FPN) to improve detection accuracy in dense scenes and is optimized for real-time performance.",
     tags: [
@@ -218,7 +218,7 @@ const projects = [
     source_code_link: "https://github.com/arkaghosh566",
   },
   {
-    name: "Gait Analysis Silhouette Extraction",
+    name: "ShadowTrack",
     description:
       "An automated pipeline that integrates YOLOv8 with the Segment Anything Model (SAM) to extract high-quality, high-fidelity human silhouettes from surveillance video. These masks are crucial for downstream gait analysis tasks like generating Gait Energy Images (GEI).",
     tags: [
@@ -231,7 +231,7 @@ const projects = [
     source_code_link: "https://github.com/arkaghosh566",
   },
   {
-    name: "High-Precision Hair Follicle Detection",
+    name: "FollicleNet",
     description:
       "A specialized computer vision model capable of identifying minute hair follicles from dermatological images and calculating their precise orientation angles. This contributes to advancements in automated cosmetic and medical analysis.",
     tags: [
@@ -243,7 +243,7 @@ const projects = [
     source_code_link: "https://github.com/arkaghosh566",
   },
   {
-    name: "Robust Head Detection Pipeline",
+    name: "HeadMark",
     description:
       "A head detection system using YOLOv8, fine-tuned on a custom merged dataset of colored and black-and-white images to ensure generalization across visual domains. Ensemble learning with multiple model variants was used to boost prediction robustness.",
     tags: [
@@ -255,7 +255,7 @@ const projects = [
     source_code_link: "https://github.com/arkaghosh566",
   },
   {
-    name: "Multi-Object Tracking System Evaluation",
+    name: "TrackVerse",
     description:
       "A research and implementation project focused on evaluating the performance of various state-of-the-art tracking algorithms, including SORT, DeepSORT, ByteTrack, and BoT-SORT, across diverse surveillance scenarios to enhance tracking accuracy and robustness.",
     tags: [
