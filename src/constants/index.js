@@ -266,6 +266,17 @@ const projects = [
     image: object_tracking,
     source_code_link: "https://github.com/arkaghosh566",
   },
+  {
+    name: "SafeVision",
+    description:
+      "A real-time computer vision–based employee tracking system designed to monitor workplace activity, enhancing operational oversight and accountability. The system leverages state-of-the-art deep learning models for robust face and body detection, enabling seamless large-scale deployment.",
+    tags: [
+      { name: "PyTorch", color: "blue-text-gradient" },
+      { name: "Computer Vision", color: "green-text-gradient" },
+      { name: "ResNet100", color: "pink-text-gradient" },
+      { name: "SCRFD-10G", color: "orange-text-gradient" },
+    ],
+  },
 ];
 
 // Arka's resume does not have testimonials.
