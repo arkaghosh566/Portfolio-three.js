@@ -276,6 +276,8 @@ const projects = [
       { name: "ResNet100", color: "pink-text-gradient" },
       { name: "SCRFD-10G", color: "orange-text-gradient" },
     ],
+    image: object_tracking,
+    source_code_link: "https://github.com/arkaghosh566",
   },
 ];
 
