@@ -50,7 +50,8 @@ import person_counting from "./CrowdLens.png"; // Using placeholder for person_c
 import hair_follicle from "./FollicleNet.png"; // Using placeholder for hair_follicle.png
 import gait_analysis from "./ShadowTrack.png"; // Using placeholder for gait_analysis.png
 import head_detection from "./HeadMark.png"; // Using placeholder for head_detection.png
-import object_tracking from "./SafeVision.png"; // Using placeholder for object_tracking.png
+import object_tracking from "./TrackVerse.png"; // Using placeholder for object_tracking.png
+import safevision from "./SafeVision.png";
 
 export {
   // General
@@ -104,4 +105,5 @@ export {
   gait_analysis,
   head_detection,
   object_tracking,
+  safevision,
 };
