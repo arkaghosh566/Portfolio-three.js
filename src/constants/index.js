@@ -34,6 +34,7 @@ import {
   gait_analysis,
   head_detection,
   object_tracking,
+  safevision,
 } from "../assets";
 
 export const navLinks = [
@@ -276,7 +277,7 @@ const projects = [
       { name: "ResNet100", color: "pink-text-gradient" },
       { name: "SCRFD-10G", color: "orange-text-gradient" },
     ],
-    image: object_tracking,
+    image: safevision,
     source_code_link: "https://github.com/arkaghosh566",
   },
 ];
