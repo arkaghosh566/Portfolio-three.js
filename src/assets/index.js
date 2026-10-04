@@ -1,5 +1,6 @@
 // General UI & Profile Assets
 import logo from "./logo0.png";
+import procentris from "./company/procentris.png";
 import profilepic from "./pfp.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -51,11 +52,15 @@ import hair_follicle from "./FollicleNet.png"; // Using placeholder for hair_fol
 import gait_analysis from "./ShadowTrack.png"; // Using placeholder for gait_analysis.png
 import head_detection from "./HeadMark.png"; // Using placeholder for head_detection.png
 import object_tracking from "./TrackVerse.png"; // Using placeholder for object_tracking.png
-import safevision from "./SafeVision.png";
-
+import safevision from "./SafeVision.png"; // Using placeholder for SafeVision.png
+import invoiceai from "./invoiceai.png"; // Using placeholder for invoiceai.png
+import omnitranslate from "./omnitranslate.png"; // Using placeholder for omnitranslate.png
+import emsai from "./emsai.png"; // Using placeholder for emsai.png
+ 
 export {
   // General
   logo,
+  procentris,
   profilepic,
   github,
   menu,
@@ -106,4 +111,7 @@ export {
   head_detection,
   object_tracking,
   safevision,
+  invoiceai,
+  omnitranslate,
+  emsai,
 };
